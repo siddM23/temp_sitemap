@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Video 1: How JOI Delivers Shelf Stability -->
+  <url>
+    <loc>https://addjoi.com/pages/how-joi-delivers-shelf-stability-longevity-and-cost-savings-in-plant-milk-video</loc>
+
+    <video:video>
+      <video:thumbnail_loc>
+        https://img.youtube.com/vi/-T1Xwm5AZ0o/hqdefault.jpg
+      </video:thumbnail_loc>
+
+      <video:title>
+        How JOI Delivers Shelf Stability, Longevity, and Cost Savings
+      </video:title>
+
+      <video:description>
+        Learn how JOI's plant milk technology delivers long shelf life, reduced waste, and cost savings for cafes and businesses.
+      </video:description>
+
+      <video:player_loc allow_embed="yes">
+        https://www.youtube.com/watch?v=-T1Xwm5AZ0o
+      </video:player_loc>
+
+      <video:platform>youtube</video:platform>
+      <video:duration>81</video:duration>
+      <video:publication_date>2020-03-03T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+
+      <video:tag>plant milk</video:tag>
+      <video:tag>shelf stable</video:tag>
+      <video:tag>cafe operations</video:tag>
+    </video:video>
+  </url>
+
+  <!-- Video 2: Why Cafes Choose JOI -->
+  <url>
+    <loc>https://addjoi.com/pages/why-cafes-choose-joi-as-a-milk-alternative-video</loc>
+
+    <video:video>
+      <video:thumbnail_loc>
+        https://img.youtube.com/vi/I3HPrEsv5Ys/hqdefault.jpg
+      </video:thumbnail_loc>
+
+      <video:title>
+        Why Cafes Choose JOI as a Milk Alternative
+      </video:title>
+
+      <video:description>
+        Discover why cafes choose JOI for taste, efficiency, and sustainability.
+      </video:description>
+
+      <video:player_loc allow_embed="yes">
+        https://www.youtube.com/watch?v=I3HPrEsv5Ys
+      </video:player_loc>
+
+      <video:platform>youtube</video:platform>
+      <video:duration>177</video:duration>
+      <video:publication_date>2019-07-01T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+
+      <video:tag>cafes</video:tag>
+      <video:tag>barista</video:tag>
+      <video:tag>milk alternative</video:tag>
+    </video:video>
+  </url>
+
+</urlset>
